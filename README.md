@@ -38,7 +38,7 @@ cargo run --release path_to_unpacked_resources
 
 First time you run the exacutable the items descriptions are downloaded into `descriptions.json`. If you want to redownload, remove this file and run the executable again.
 
-You can get the executable [here](https://github.com/slaninas/redescription/releases) section but you still need to install the OpenCV library (dynamic linking).
+You can get the executable [here](https://github.com/slaninas/redescription/releases) but you still need to install the OpenCV library (dynamic linking).
 
 
 ### Windows
